@@ -13,6 +13,7 @@ import java.util.Iterator;
 import javax.swing.*;
 
 public class FlashCardBuilder {
+		//Instance Variables
 		private JTextArea question;
 		private JTextArea answer;
 		private ArrayList<FlashCards> myCards = new ArrayList<>();
